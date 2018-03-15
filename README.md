@@ -1,5 +1,7 @@
 Ejercicios de programación en C sacados del libro:
 
+http://www.eduinnova.es/monografias2011/ene2011/java.pdf
+
 Los ejercicios se harán por bloques temáticos!
 
 <h1>Bloque #1</h1>
