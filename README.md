@@ -1,6 +1,9 @@
 Ejercicios de programación en C sacados del libro:
 
-http://www.eduinnova.es/monografias2011/ene2011/java.pdf
+Ejercicios de Programación en Java
+Condicionales, Bucles, Tablas y Funciones
+de F.M. Pérez Montes
+
 
 Los ejercicios se harán por bloques temáticos!
 
